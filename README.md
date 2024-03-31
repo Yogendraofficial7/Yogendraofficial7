@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Yogendra+Kumar!;" />
 </h1>
 
-<h3 align="center">A highly motivated, skilled and self-organized DevOps Engineer with 5+ years of experience</h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Leftteous&size=13&center=true&vCenter=true&width=800&height=70&duration=4000&lines=A+Highly+Motivated,+Skilled+and+Self-Organized+DevOps+Engineer+with+5.3+years+of+experience;" /></h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendraofficial7&label=Profile%20views&color=0e75b6&style=flat" alt="yogendraofficial7" /> </p>
 
