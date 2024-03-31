@@ -8,9 +8,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendraofficial7&label=Profile%20views&color=0e75b6&style=flat" alt="yogendraofficial7" /> </p>
 
-- 📫 How to reach me **yogendra.devopseng007@outlook.com**
+- 📫 Shoot Me an [Email](mailto:yogendra.devopseng007@outlook.com) 💌
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JwUG8UCXlUJi1FY27UPpV86wS0o_xoBg/view?usp=drive_link](https://drive.google.com/file/d/1JwUG8UCXlUJi1FY27UPpV86wS0o_xoBg/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JwUG8UCXlUJi1FY27UPpV86wS0o_xoBg/view?usp=drive_link) 📄
 
 - ⚡ Fun fact **I am Funny 😅**
 
